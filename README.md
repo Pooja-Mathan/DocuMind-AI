@@ -97,9 +97,6 @@ DocuMind-AI/
         └── screenshots/
 ```
 
-## 🎯 Resume Description
-
-**DocuMind AI | Python, LangChain, OpenAI, ChromaDB, Streamlit** — Built a conversational RAG chatbot for document question answering using recursive chunking, OpenAI embeddings, ChromaDB vector retrieval, MMR search, history-aware query reformulation, and grounded LLM prompting with source/page traceability.
 
 ## 👩‍💻 Author
 
