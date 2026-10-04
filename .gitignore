@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+*.pem
+
+# Local data / vector stores
+data/tmp/
+data/vector_stores/
+*.db
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
